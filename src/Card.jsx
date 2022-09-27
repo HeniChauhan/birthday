@@ -1,4 +1,4 @@
-export default () => (
+const Card = () => (
     <div className="birthdayCard">
       <div className="cardFront">
         <h3 className="happy">HAPPY BIRTHDAY...!!</h3>
@@ -21,3 +21,4 @@ export default () => (
     </div>
   );
   
+export default Card;
