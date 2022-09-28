@@ -8,7 +8,7 @@ body {
   
   .birthdayCard {
     position: relative;
-    width: 500px;
+    width: 400px;
     height: 550px;
     cursor: pointer;
     transform-style: preserve-3d;
@@ -33,7 +33,7 @@ body {
   .cardFront {
     position: relative;
     background-color: #fff;
-    width: 500px;
+    width: 400px;
     height: 550px;
     overflow: hidden;
     transform-origin: left;
@@ -133,7 +133,7 @@ body {
   .cardInside {
     position: absolute;
     background-color: #fff;
-    width: 500px;
+    width: 400px;
     height: 550px;
     z-index: -1;
     left: 0;
